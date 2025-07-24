@@ -1,10 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI-based solutions 🤖, full-stack projects 💻, and IoT systems 🌐 that solve real-world problems.
-👯 I’m looking to collaborate on innovative tech projects, especially in AI, web development, or anything challenging and impactful 🚀.
-🤝 I’m looking for help with scaling intelligent systems and exploring real-time data integration in IoT platforms.
-I’m currently learning advanced topics in machine learning 📘, cloud computing ☁️, and mobile development using Kotlin and Flutter 📱.
-💬 Ask me about AI, backend systems, REST APIs, or how to build scalable web apps using Python, Java, PHP, or JavaScript 🔧.
-⚡Fun fact: Modifying things is my superpower — one tweak, big impact! 😄
+🔭 I’m currently working on AI-based solutions 🤖, full-stack projects 💻, and IoT systems 🌐 that solve real-world problems.<br><br>👯 I’m looking to collaborate on innovative tech projects, especially in AI, web development, or anything challenging and impactful 🚀.<br><br>🤝 I’m looking for help with scaling intelligent systems and exploring real-time data integration in IoT platforms.<br><br>🌱 I’m currently learning advanced topics in machine learning 📘, cloud computing ☁️, and mobile development using Kotlin and Flutter 📱.<br><br>💬 Ask me about AI, backend systems, REST APIs, or how to build scalable web apps using Python, Java, PHP, or JavaScript 🔧.<br><br>⚡Fun fact: Modifying things is my superpower — one tweak, big impact! 😄
 
 
 ## 🌐 Socials:
@@ -25,3 +20,5 @@ I’m currently learning advanced topics in machine learning 📘, cloud computi
 
 ---
 [![](https://visitcount.itsvg.in/api?id=heardlyyoel&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
